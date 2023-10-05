@@ -1,4 +1,5 @@
 **Amazon Reviews Sentiment Analysis**
+
 This Python script performs sentiment analysis on Amazon product reviews and visualizes the results. It uses two methods for sentiment analysis: VADER Sentiment Analysis and RoBERTa (a pre-trained transformer model). The program also includes data visualization components to explore the relationship between sentiment scores and star ratings.
 
 **Description**
